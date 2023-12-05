@@ -1,0 +1,17 @@
+//
+//  mvvmswiftuiApp.swift
+//  mvvmswiftui
+//
+//  Created by EDOUARD CHEVENSLOVE on 05/12/2023.
+//
+
+import SwiftUI
+
+@main
+struct mvvmswiftuiApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
